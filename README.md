@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
-<div align="center">
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LesserFullness&theme=dracula)](https://github.com/LesserFullness)
-</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LesserFullness&theme=dracula)](https://github.com/LesserFullness)
+
