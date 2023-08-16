@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 </h1>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LesserFullness&theme=dracula)](https://github.com/LesserFullness)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LesserFullness&theme=github)](https://github.com/LesserFullness)
 
