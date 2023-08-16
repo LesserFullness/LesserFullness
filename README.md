@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">
   <a href="http://wouldfull.eu.org/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22)">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22)&center=true">
   </a>
 </h1>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=LesserFullness&theme=xcode" />
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LesserFullness&theme=dracula)](https://github.com/LesserFullness)
 </div>
